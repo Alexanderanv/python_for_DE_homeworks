@@ -140,6 +140,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# materials for homework
+/materials
+
 # mypy
 .mypy_cache/
 .dmypy.json
